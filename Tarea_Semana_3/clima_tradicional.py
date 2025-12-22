@@ -85,6 +85,7 @@ def main_tradicional():
     print("=========================================================")
 
 
-# Ejecutar la función principal si el script se corre directamente
+# Ejecutar la función principal 
 if __name__ == "__main__":
     main_tradicional()
+
